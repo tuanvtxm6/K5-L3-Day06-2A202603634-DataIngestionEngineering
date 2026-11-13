@@ -1,0 +1,26 @@
+{
+  "fixed500o50": {
+    "chunks": 1247,
+    "seconds": 0.011,
+    "chars_total": 562197,
+    "len_min": 54,
+    "len_median": 496,
+    "len_mean": 450.8,
+    "len_p90": 499,
+    "len_max": 500,
+    "multi_page_chunks": 0,
+    "chunks_without_chuong": 3
+  },
+  "article1500": {
+    "chunks": 589,
+    "seconds": 0.011,
+    "chars_total": 524429,
+    "len_min": 23,
+    "len_median": 902,
+    "len_mean": 890.4,
+    "len_p90": 1392,
+    "len_max": 1499,
+    "multi_page_chunks": 207,
+    "chunks_without_chuong": 2
+  }
+}

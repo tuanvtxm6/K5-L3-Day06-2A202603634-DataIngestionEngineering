@@ -1,0 +1,28 @@
+{
+  "physical_pages": 277,
+  "ok_pages": 276,
+  "content_pages_counted": 275,
+  "excluded_pages": [
+    {
+      "page": 277,
+      "status": "garbled",
+      "vietnamese_ratio": 0.0,
+      "preview": "277 B9 lu~t nay co hi~u Ive thi hanh tu ngay O 1 thang O 1 nam 2018 . 89 lu~t Hinh sµ s8 15/ 1999/QH IO va Lu~t s6 3 7 /"
+    }
+  ],
+  "cover_page_not_counted": 1,
+  "footnotes_extracted": 401,
+  "footnote_refs_removed_from_text": 588,
+  "repealed": [
+    "Chương XII (Điều 90–107) – 'được bãi bỏ' theo Luật 59/2024/QH15 (chú thích 34)"
+  ],
+  "normalization": [
+    "NFC",
+    "Ð(U+00D0)→Đ(U+0110), ð→đ",
+    "drop zero-width/soft hyphen/BOM, NBSP→space",
+    "drop page numbers (13pt, top) and inline footnote refs (9pt superscript)",
+    "footnote text (8pt number + 12pt text) kept in metadata only",
+    "join soft line wraps; keep breaks before Phần/Chương/Mục/Điều/khoản/điểm; bold detects wrapped article titles"
+  ],
+  "seconds": 0.686
+}

@@ -1,0 +1,225 @@
+[
+  {
+    "id": "q01", "split": "dev", "type": "truc_tiep",
+    "question": "Người từ đủ bao nhiêu tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm?",
+    "expected_answer": "Từ đủ 16 tuổi trở lên, trừ những tội phạm mà Bộ luật có quy định khác.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [6], "gold_dieu": "12",
+    "evidence_quote": [
+      "Người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác."
+    ],
+    "filter": null
+  },
+  {
+    "id": "q02", "split": "dev", "type": "dieu_kien",
+    "question": "Một người 15 tuổi trộm cắp tài sản thì có phải chịu trách nhiệm hình sự không?",
+    "expected_answer": "Chỉ khi hành vi thuộc loại tội phạm rất nghiêm trọng hoặc đặc biệt nghiêm trọng; tội trộm cắp tài sản (Điều 173) nằm trong danh sách các điều áp dụng cho người từ đủ 14 tuổi đến dưới 16 tuổi.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [6], "gold_dieu": "12",
+    "evidence_quote": [
+      "Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng quy định tại một trong các điều 123, 134, 141, 142, 143, 144, 150, 151, 168, 169, 170, 171, 173"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q03", "split": "dev", "type": "truc_tiep",
+    "question": "Tội phạm nghiêm trọng là tội có mức cao nhất của khung hình phạt là bao nhiêu?",
+    "expected_answer": "Từ trên 03 năm tù đến 07 năm tù.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [5], "gold_dieu": "9",
+    "evidence_quote": [
+      "Tội phạm nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 03 năm tù đến 07 năm tù"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q04", "split": "dev", "type": "dien_dat_lai",
+    "question": "Nếu bị tấn công mà tôi đánh trả rõ ràng quá mức cần thiết thì tôi có bị xử lý hình sự không?",
+    "expected_answer": "Có. Đó là vượt quá giới hạn phòng vệ chính đáng và người đó phải chịu trách nhiệm hình sự.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [8], "gold_dieu": "22",
+    "evidence_quote": [
+      "Vượt quá giới hạn phòng vệ chính đáng là hành vi chống trả rõ ràng quá mức cần thiết",
+      "Người có hành vi vượt quá giới hạn phòng vệ chính đáng phải chịu trách nhiệm hình sự theo quy định của Bộ luật này."
+    ],
+    "filter": null
+  },
+  {
+    "id": "q05", "split": "dev", "type": "ngoai_le",
+    "question": "Tội tham ô tài sản có được áp dụng thời hiệu truy cứu trách nhiệm hình sự trong mọi trường hợp không?",
+    "expected_answer": "Không. Không áp dụng thời hiệu truy cứu trách nhiệm hình sự đối với tội tham ô tài sản thuộc khoản 3 và khoản 4 Điều 353.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [10], "gold_dieu": "28",
+    "evidence_quote": [
+      "Không áp dụng thời hiệu truy cứu trách nhiệm hình sự quy định tại Điều 27 của Bộ luật này đối với các tội phạm sau đây",
+      "Tội tham ô tài sản thuộc trường hợp quy định tại khoản 3 và khoản 4 Điều 353 của Bộ luật này"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q06", "split": "dev", "type": "dieu_kien",
+    "question": "Người bị kết án tử hình mắc bệnh ung thư giai đoạn cuối thì có bị thi hành án tử hình không?",
+    "expected_answer": "Không thi hành án tử hình; hình phạt tử hình được chuyển thành tù chung thân (khoản 3, 4 Điều 40, sửa đổi bởi Luật 86/2025/QH15).",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [14], "gold_dieu": "40",
+    "evidence_quote": [
+      "Không thi hành án tử hình đối với người bị kết án nếu thuộc một trong các trường hợp sau đây",
+      "c) Người mắc bệnh ung thư giai đoạn cuối.",
+      "hình phạt tử hình được chuyển thành tù chung thân"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q07", "split": "dev", "type": "truc_tiep",
+    "question": "Khi tổng hợp hình phạt cho người phạm nhiều tội, hình phạt tù có thời hạn chung tối đa là bao nhiêu năm?",
+    "expected_answer": "Không được vượt quá 30 năm.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [21], "gold_dieu": "55",
+    "evidence_quote": [
+      "hình phạt chung không được vượt quá 03 năm đối với hình phạt cải tạo không giam giữ, 30 năm đối với hình phạt tù có thời hạn"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q08", "split": "dev", "type": "dien_dat_lai",
+    "question": "Người được cho hưởng án treo phải trải qua thời gian thử thách trong khoảng bao lâu?",
+    "expected_answer": "Từ 01 năm đến 05 năm.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [25], "gold_dieu": "65",
+    "evidence_quote": [
+      "ấn định thời gian thử thách từ 01 năm đến 05 năm"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q09", "split": "dev", "type": "dieu_kien",
+    "question": "Người bị phạt tù 04 năm thì sau khi chấp hành xong hình phạt phải bao lâu không phạm tội mới mới đương nhiên được xóa án tích?",
+    "expected_answer": "02 năm (trường hợp bị phạt tù đến 05 năm), với điều kiện đã chấp hành xong hình phạt bổ sung, các quyết định khác của bản án và không thực hiện hành vi phạm tội mới.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [28], "gold_dieu": "70",
+    "evidence_quote": [
+      "người đó đã chấp hành xong hình phạt bổ sung, các quyết định khác của bản án và không thực hiện hành vi phạm tội mới trong thời hạn sau đây",
+      "b) 02 năm trong trong trường hợp bị phạt tù đến 05 năm;"
+    ],
+    "filter": null,
+    "note": "Nguồn viết lặp 'trong trong'; giữ nguyên văn."
+  },
+  {
+    "id": "q10", "split": "dev", "type": "truc_tiep",
+    "question": "Trộm cắp tài sản của người khác trị giá tối thiểu bao nhiêu thì bị truy cứu trách nhiệm hình sự, khi không có tình tiết nào khác?",
+    "expected_answer": "Từ 2.000.000 đồng trở lên (khung khoản 1: từ 2.000.000 đồng đến dưới 50.000.000 đồng).",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [72], "gold_dieu": "173",
+    "evidence_quote": [
+      "Người nào trộm cắp tài sản của người khác trị giá từ 2.000.000 đồng đến dưới 50.000.000 đồng"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q11", "split": "dev", "type": "dien_dat_lai",
+    "question": "Chơi bài ăn tiền với số tiền bao nhiêu thì bị coi là phạm tội đánh bạc?",
+    "expected_answer": "Tiền hoặc hiện vật được thua trị giá từ 5.000.000 đồng trở lên; hoặc dưới 5.000.000 đồng nhưng đã bị xử phạt vi phạm hành chính về hành vi này (hoặc đã bị kết án, chưa được xóa án tích).",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [222], "gold_dieu": "321",
+    "evidence_quote": [
+      "được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 5.000.000 đồng nhưng đã bị xử phạt vi phạm hành chính về hành vi này"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q12", "split": "dev", "type": "truc_tiep",
+    "question": "Chương XII của Bộ luật Hình sự còn hiệu lực trong văn bản hợp nhất không?",
+    "expected_answer": "Không, Chương XII đã được bãi bỏ (chú thích: theo Luật Tư pháp người chưa thành niên số 59/2024/QH15, hiệu lực từ 01/01/2026).",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [35], "gold_dieu": null,
+    "evidence_quote": [
+      "Chương XII (được bãi bỏ)"
+    ],
+    "filter": null,
+    "note": "Căn cứ bãi bỏ nằm trong chú thích 34 (metadata), không nằm trong text chunk."
+  },
+  {
+    "id": "q13", "split": "dev", "type": "dieu_kien",
+    "question": "Cố ý gây thương tích cho người khác với tỷ lệ tổn thương cơ thể 25% và có dùng a-xít nguy hiểm thì bị phạt tù bao nhiêu năm?",
+    "expected_answer": "Phạt tù từ 02 năm đến 06 năm (11%–30% nhưng thuộc một trong các trường hợp ở các điểm a–k khoản 1, trong đó có dùng a-xít nguy hiểm).",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [43, 44], "gold_dieu": "134",
+    "evidence_quote": [
+      "b) Dùng a-xít nguy hiểm hoặc hóa chất nguy hiểm;",
+      "Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 06 năm",
+      "đ) Gây thương tích hoặc gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 11% đến 30% nhưng thuộc một trong các trường hợp quy định tại các điểm từ điểm a đến điểm k khoản 1 Điều này."
+    ],
+    "filter": null
+  },
+  {
+    "id": "q14", "split": "dev", "type": "metadata_filter",
+    "question": "Pháp nhân thương mại bị kết án thì sau bao lâu đương nhiên được xóa án tích?",
+    "expected_answer": "Trong thời hạn 02 năm kể từ khi chấp hành xong hình phạt chính, hình phạt bổ sung, các quyết định khác của bản án hoặc từ khi hết thời hiệu thi hành bản án mà không thực hiện hành vi phạm tội mới.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [35], "gold_dieu": "89",
+    "evidence_quote": [
+      "Pháp nhân thương mại bị kết án đương nhiên được xóa án tích nếu trong thời hạn 02 năm"
+    ],
+    "filter": {"chuong": "XI"},
+    "filter_context": "Người dùng chọn phạm vi trước khi hỏi: Chương XI – Những quy định đối với pháp nhân thương mại phạm tội.",
+    "confusable": "Điều 70 (Chương X) – xóa án tích đối với cá nhân."
+  },
+  {
+    "id": "q15", "split": "dev", "type": "metadata_filter",
+    "question": "Thời hiệu thi hành bản án đối với người bị xử phạt tù từ trên 15 năm đến 30 năm là bao lâu?",
+    "expected_answer": "15 năm.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [22, 23], "gold_dieu": "60",
+    "evidence_quote": [
+      "c) 15 năm đối với các trường hợp xử phạt tù từ trên 15 năm đến 30 năm;"
+    ],
+    "filter": {"chuong": "IX"},
+    "filter_context": "Người dùng chọn phạm vi trước khi hỏi: Chương IX – Thời hiệu thi hành bản án, miễn chấp hành hình phạt, giảm thời hạn chấp hành hình phạt.",
+    "confusable": "Điều 27 (Chương V) – thời hiệu truy cứu trách nhiệm hình sự (cũng có mốc 15 năm)."
+  },
+  {
+    "id": "q16", "split": "test", "type": "truc_tiep",
+    "question": "Hiện nay hình phạt cao nhất đối với tội tham ô tài sản là gì?",
+    "expected_answer": "Phạt tù 20 năm hoặc tù chung thân (khoản 4 Điều 353, sửa đổi bởi Luật 86/2025/QH15; không còn hình phạt tử hình).",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [238, 239], "gold_dieu": "353",
+    "evidence_quote": [
+      "Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù 20 năm hoặc tù chung thân",
+      "a) Chiếm đoạt tài sản trị giá 1.000.000.000 đồng trở lên;"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q17", "split": "test", "type": "dien_dat_lai",
+    "question": "Sau bao nhiêu năm kể từ ngày phạm tội thì người phạm tội ít nghiêm trọng không còn bị truy cứu trách nhiệm hình sự?",
+    "expected_answer": "05 năm, tính từ ngày tội phạm được thực hiện (thời hiệu được tính lại nếu phạm tội mới có mức cao nhất trên 01 năm tù hoặc cố tình trốn tránh và đã có quyết định truy nã).",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [9, 10], "gold_dieu": "27",
+    "evidence_quote": [
+      "a) 05 năm đối với tội phạm ít nghiêm trọng;"
+    ],
+    "filter": null
+  },
+  {
+    "id": "q18", "split": "test", "type": "dieu_kien",
+    "question": "Vận chuyển trái phép 120 gam Heroine, không nhằm mục đích mua bán hay tàng trữ, thì bị phạt thế nào?",
+    "expected_answer": "Phạt tù 20 năm hoặc tù chung thân (khoản 4 điểm b Điều 250, sửa đổi bởi Luật 86/2025/QH15).",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [155, 156, 157], "gold_dieu": "250",
+    "evidence_quote": [
+      "Tội vận chuyển trái phép chất ma túy",
+      "thì bị phạt tù 20 năm hoặc tù chung thân",
+      "b) Heroine, Cocaine, Methamphetamine, Amphetamine, Ketamine, Fentanyl, MDMA hoặc XLR-11 có khối lượng 100 gam trở lên;"
+    ],
+    "filter": null,
+    "note": "Khoản 4 của Điều 248, 249, 251 có câu chữ gần giống; cần tên tội để trả lời đúng."
+  },
+  {
+    "id": "q19", "split": "test", "type": "metadata_filter",
+    "question": "Đối với pháp nhân thương mại phạm tội, việc có nhiều đóng góp trong thực hiện chính sách xã hội có được coi là tình tiết giảm nhẹ không?",
+    "expected_answer": "Có, đây là một tình tiết giảm nhẹ trách nhiệm hình sự áp dụng đối với pháp nhân thương mại.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [33], "gold_dieu": "84",
+    "evidence_quote": [
+      "Các tình tiết sau đây là tình tiết giảm nhẹ trách nhiệm hình sự",
+      "đ) Có nhiều đóng góp trong việc thực hiện chính sách xã hội."
+    ],
+    "filter": {"chuong": "XI"},
+    "filter_context": "Người dùng chọn phạm vi trước khi hỏi: Chương XI – Những quy định đối với pháp nhân thương mại phạm tội.",
+    "confusable": "Điều 51 (Chương VIII) – tình tiết giảm nhẹ đối với cá nhân."
+  },
+  {
+    "id": "q20", "split": "test", "type": "metadata_filter",
+    "question": "Người tham gia giao thông đường bộ vi phạm quy định về an toàn giao thông, gây thương tích cho 01 người với tỷ lệ tổn thương cơ thể 61% trở lên thì bị phạt thế nào?",
+    "expected_answer": "Phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm.",
+    "gold_source_id": "blhs-vbhn-135-2025", "gold_page": [168], "gold_dieu": "260",
+    "evidence_quote": [
+      "thì bị phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm",
+      "b) Gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người mà tỷ lệ tổn thương cơ thể 61% trở lên;"
+    ],
+    "filter": {"chuong": "XXI"},
+    "filter_context": "Người dùng chọn phạm vi trước khi hỏi: Chương XXI – Các tội xâm phạm an toàn công cộng, trật tự công cộng.",
+    "confusable": "Điều 134 (Chương XIV) – cố ý gây thương tích, cũng dùng mốc 61%."
+  }
+]

@@ -1,0 +1,476 @@
+{
+  "counts": {
+    "total": 20,
+    "dev": 15,
+    "test": 5,
+    "filter": 4,
+    "filter_test": 2
+  },
+  "errors": [],
+  "questions": [
+    {
+      "id": "q01",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ n",
+          "on_gold_page": true,
+          "pages_found": [
+            6
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về tội phạm r",
+          "on_gold_page": true,
+          "pages_found": [
+            6
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Tội phạm nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội lớ",
+          "on_gold_page": true,
+          "pages_found": [
+            5
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Vượt quá giới hạn phòng vệ chính đáng là hành vi chống trả rõ ràng quá mức cần t",
+          "on_gold_page": true,
+          "pages_found": [
+            8
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        },
+        {
+          "quote": "Người có hành vi vượt quá giới hạn phòng vệ chính đáng phải chịu trách nhiệm hìn",
+          "on_gold_page": true,
+          "pages_found": [
+            8
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Không áp dụng thời hiệu truy cứu trách nhiệm hình sự quy định tại Điều 27 của Bộ",
+          "on_gold_page": true,
+          "pages_found": [
+            10
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        },
+        {
+          "quote": "Tội tham ô tài sản thuộc trường hợp quy định tại khoản 3 và khoản 4 Điều 353 của",
+          "on_gold_page": true,
+          "pages_found": [
+            10
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Không thi hành án tử hình đối với người bị kết án nếu thuộc một trong các trường",
+          "on_gold_page": true,
+          "pages_found": [
+            14
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        },
+        {
+          "quote": "c) Người mắc bệnh ung thư giai đoạn cuối.",
+          "on_gold_page": true,
+          "pages_found": [
+            14
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        },
+        {
+          "quote": "hình phạt tử hình được chuyển thành tù chung thân",
+          "on_gold_page": true,
+          "pages_found": [
+            14
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "hình phạt chung không được vượt quá 03 năm đối với hình phạt cải tạo không giam ",
+          "on_gold_page": true,
+          "pages_found": [
+            21
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "ấn định thời gian thử thách từ 01 năm đến 05 năm",
+          "on_gold_page": true,
+          "pages_found": [
+            25
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "người đó đã chấp hành xong hình phạt bổ sung, các quyết định khác của bản án và ",
+          "on_gold_page": true,
+          "pages_found": [
+            28,
+            29
+          ],
+          "in_gold_article": true,
+          "articles_containing": 2
+        },
+        {
+          "quote": "b) 02 năm trong trong trường hợp bị phạt tù đến 05 năm;",
+          "on_gold_page": true,
+          "pages_found": [
+            28
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Người nào trộm cắp tài sản của người khác trị giá từ 2.000.000 đồng đến dưới 50.",
+          "on_gold_page": true,
+          "pages_found": [
+            72
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đ",
+          "on_gold_page": true,
+          "pages_found": [
+            222
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Chương XII (được bãi bỏ)",
+          "on_gold_page": true,
+          "pages_found": [
+            35
+          ],
+          "in_gold_article": true,
+          "articles_containing": 0
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "b) Dùng a-xít nguy hiểm hoặc hóa chất nguy hiểm;",
+          "on_gold_page": true,
+          "pages_found": [
+            43
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        },
+        {
+          "quote": "Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 06",
+          "on_gold_page": true,
+          "pages_found": [
+            44
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        },
+        {
+          "quote": "đ) Gây thương tích hoặc gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thư",
+          "on_gold_page": true,
+          "pages_found": [
+            44
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "Pháp nhân thương mại bị kết án đương nhiên được xóa án tích nếu trong thời hạn 0",
+          "on_gold_page": true,
+          "pages_found": [
+            35
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ],
+      "gold_chuong": "XI"
+    },
+    {
+      "id": "q15",
+      "split": "dev",
+      "quotes": [
+        {
+          "quote": "c) 15 năm đối với các trường hợp xử phạt tù từ trên 15 năm đến 30 năm;",
+          "on_gold_page": true,
+          "pages_found": [
+            23
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ],
+      "gold_chuong": "IX"
+    },
+    {
+      "id": "q16",
+      "split": "test",
+      "quotes": [
+        {
+          "quote": "Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù 20 năm hoặc tù c",
+          "on_gold_page": true,
+          "pages_found": [
+            93,
+            152,
+            157,
+            158,
+            163,
+            164,
+            190,
+            239,
+            240,
+            241,
+            243
+          ],
+          "in_gold_article": true,
+          "articles_containing": 11
+        },
+        {
+          "quote": "a) Chiếm đoạt tài sản trị giá 1.000.000.000 đồng trở lên;",
+          "on_gold_page": true,
+          "pages_found": [
+            239,
+            241
+          ],
+          "in_gold_article": true,
+          "articles_containing": 2
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "split": "test",
+      "quotes": [
+        {
+          "quote": "a) 05 năm đối với tội phạm ít nghiêm trọng;",
+          "on_gold_page": true,
+          "pages_found": [
+            10
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "split": "test",
+      "quotes": [
+        {
+          "quote": "Tội vận chuyển trái phép chất ma túy",
+          "on_gold_page": true,
+          "pages_found": [
+            155
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        },
+        {
+          "quote": "thì bị phạt tù 20 năm hoặc tù chung thân",
+          "on_gold_page": true,
+          "pages_found": [
+            93,
+            152,
+            157,
+            158,
+            163,
+            164,
+            166,
+            190,
+            239,
+            240,
+            241,
+            243
+          ],
+          "in_gold_article": true,
+          "articles_containing": 12
+        },
+        {
+          "quote": "b) Heroine, Cocaine, Methamphetamine, Amphetamine, Ketamine, Fentanyl, MDMA hoặc",
+          "on_gold_page": true,
+          "pages_found": [
+            155,
+            157,
+            161
+          ],
+          "in_gold_article": true,
+          "articles_containing": 3
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "split": "test",
+      "quotes": [
+        {
+          "quote": "Các tình tiết sau đây là tình tiết giảm nhẹ trách nhiệm hình sự",
+          "on_gold_page": true,
+          "pages_found": [
+            18,
+            33
+          ],
+          "in_gold_article": true,
+          "articles_containing": 2
+        },
+        {
+          "quote": "đ) Có nhiều đóng góp trong việc thực hiện chính sách xã hội.",
+          "on_gold_page": true,
+          "pages_found": [
+            33
+          ],
+          "in_gold_article": true,
+          "articles_containing": 1
+        }
+      ],
+      "gold_chuong": "XI"
+    },
+    {
+      "id": "q20",
+      "split": "test",
+      "quotes": [
+        {
+          "quote": "thì bị phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không gia",
+          "on_gold_page": true,
+          "pages_found": [
+            168,
+            173,
+            178,
+            180,
+            181,
+            182,
+            183,
+            185,
+            186
+          ],
+          "in_gold_article": true,
+          "articles_containing": 9
+        },
+        {
+          "quote": "b) Gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người mà tỷ lệ tổn thươn",
+          "on_gold_page": true,
+          "pages_found": [
+            168,
+            170,
+            171,
+            172,
+            174,
+            175,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            186,
+            199,
+            209,
+            212,
+            214
+          ],
+          "in_gold_article": true,
+          "articles_containing": 22
+        }
+      ],
+      "gold_chuong": "XXI"
+    }
+  ]
+}
